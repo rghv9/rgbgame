@@ -1,0 +1,42 @@
+body{
+	background: black;
+	color: white;
+	text-align: center;
+
+}
+#container{
+	margin:0 30%;
+   margin-top: 10px;
+}
+
+.square{
+
+	background: pink ;
+	width: 30%;
+	margin: 1.66%;
+	padding-bottom:30%;
+	float: left;
+}
+
+#sp{
+	color:black;
+	font-size: 0.8rem;
+	margin-left:10px; 
+
+}
+#bg{
+	background: orange;
+	padding: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px; 
+}
+
+#strip{
+	padding-top:7px;
+	background: white;
+}
+
+#ms{
+	text-align: right;
+	margin-bottom: 4px;
+}
